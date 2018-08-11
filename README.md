@@ -8,6 +8,7 @@ This is a sample project developed with React native
 ``` cd ReactNativeCreditCardForm ```
 <br/>
 ``` yarn install ```
+<br/>
 ``` yarn start ```
 
 
